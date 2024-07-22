@@ -1,0 +1,2296 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="water_data_for_texas" id="water_data_for_texas">
+	<SimpleField name="area" type="float"></SimpleField>
+	<SimpleField name="condensed_name" type="string"></SimpleField>
+	<SimpleField name="conservation_capacity" type="float"></SimpleField>
+	<SimpleField name="conservation_pool_elevation" type="float"></SimpleField>
+	<SimpleField name="conservation_storage" type="float"></SimpleField>
+	<SimpleField name="dead_pool_elevation" type="float"></SimpleField>
+	<SimpleField name="elevation" type="float"></SimpleField>
+	<SimpleField name="full_name" type="string"></SimpleField>
+	<SimpleField name="percent_full" type="float"></SimpleField>
+	<SimpleField name="short_name" type="string"></SimpleField>
+	<SimpleArrayField name="tags" type="string"></SimpleArrayField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="volume" type="float"></SimpleField>
+	<SimpleField name="volume_under_conservation_pool_elevation" type="float"></SimpleField>
+</Schema>
+<Folder><name>water_data_for_texas</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">146.9</SimpleData>
+		<SimpleData name="condensed_name">Abilene</SimpleData>
+		<SimpleData name="conservation_capacity">7900</SimpleData>
+		<SimpleData name="conservation_pool_elevation">2012.3</SimpleData>
+		<SimpleData name="conservation_storage">714</SimpleData>
+		<SimpleData name="dead_pool_elevation">1968.8</SimpleData>
+		<SimpleData name="elevation">1992.29</SimpleData>
+		<SimpleData name="full_name">Lake Abilene</SimpleData>
+		<SimpleData name="percent_full">9</SimpleData>
+		<SimpleData name="short_name">Abilene</SimpleData>
+		<SimpleData name="tags">(8:climate_low_rolling_plains,monitored,municipal_abilene,region_brazos_g,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">714</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">7900</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.88897705,32.23457718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Addicks</SimpleData>
+		<SimpleData name="conservation_pool_elevation">67.5</SimpleData>
+		<SimpleData name="dead_pool_elevation">67.5</SimpleData>
+		<SimpleData name="elevation">90.28</SimpleData>
+		<SimpleData name="full_name">Addicks Reservoir</SimpleData>
+		<SimpleData name="short_name">Addicks</SimpleData>
+		<SimpleData name="tags">(8:climate_upper_coast,monitored,municipal_houston,region_region_h,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.62355804,29.79133987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">2741.71</SimpleData>
+		<SimpleData name="condensed_name">AlanHenry</SimpleData>
+		<SimpleData name="conservation_capacity">96207</SimpleData>
+		<SimpleData name="conservation_pool_elevation">2220</SimpleData>
+		<SimpleData name="conservation_storage">93907</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">2219.17</SimpleData>
+		<SimpleData name="full_name">Lake Alan Henry</SimpleData>
+		<SimpleData name="percent_full">97.6</SimpleData>
+		<SimpleData name="short_name">Alan Henry</SimpleData>
+		<SimpleData name="tags">(8:climate_low_rolling_plains,monitored,municipal_lubbock,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">93907</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">96206.795868</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.0476303,33.06287766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">16260.51</SimpleData>
+		<SimpleData name="condensed_name">Amistad</SimpleData>
+		<SimpleData name="conservation_capacity">1813408</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1117</SimpleData>
+		<SimpleData name="conservation_storage">434582</SimpleData>
+		<SimpleData name="dead_pool_elevation">930</SimpleData>
+		<SimpleData name="elevation">1047.15</SimpleData>
+		<SimpleData name="full_name">Amistad Reservoir</SimpleData>
+		<SimpleData name="percent_full">24</SimpleData>
+		<SimpleData name="short_name">Amistad</SimpleData>
+		<SimpleData name="tags">(9:climate_edwards_plateau,monitored,municipal_brownsville,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">601829</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">3226704</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.05583,29.44972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1498.1</SimpleData>
+		<SimpleData name="condensed_name">AmonGCarter</SimpleData>
+		<SimpleData name="conservation_capacity">19266</SimpleData>
+		<SimpleData name="conservation_pool_elevation">920</SimpleData>
+		<SimpleData name="conservation_storage">19266</SimpleData>
+		<SimpleData name="dead_pool_elevation">892.5</SimpleData>
+		<SimpleData name="elevation">920.13</SimpleData>
+		<SimpleData name="full_name">Lake Amon G Carter</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Amon G Carter</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_b,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">20261</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">20050</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.86309052,33.47427368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">3033.55</SimpleData>
+		<SimpleData name="condensed_name">Aquilla</SimpleData>
+		<SimpleData name="conservation_capacity">43243</SimpleData>
+		<SimpleData name="conservation_pool_elevation">537.5</SimpleData>
+		<SimpleData name="conservation_storage">41897</SimpleData>
+		<SimpleData name="dead_pool_elevation">503</SimpleData>
+		<SimpleData name="elevation">537.06</SimpleData>
+		<SimpleData name="full_name">Aquilla Lake</SimpleData>
+		<SimpleData name="percent_full">96.9</SimpleData>
+		<SimpleData name="short_name">Aquilla</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">41933</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">43278.745432</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.20278931,31.89988136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1884.84</SimpleData>
+		<SimpleData name="condensed_name">Arlington</SimpleData>
+		<SimpleData name="conservation_capacity">40157</SimpleData>
+		<SimpleData name="conservation_pool_elevation">550</SimpleData>
+		<SimpleData name="conservation_storage">37188</SimpleData>
+		<SimpleData name="dead_pool_elevation">505</SimpleData>
+		<SimpleData name="elevation">548.44</SimpleData>
+		<SimpleData name="full_name">Lake Arlington</SimpleData>
+		<SimpleData name="percent_full">92.6</SimpleData>
+		<SimpleData name="short_name">Arlington</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_fort_worth,region_region_c,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">37220</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">40188.218182</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.19251251,32.71624374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">12200.36</SimpleData>
+		<SimpleData name="condensed_name">Arrowhead</SimpleData>
+		<SimpleData name="conservation_capacity">230359</SimpleData>
+		<SimpleData name="conservation_pool_elevation">926</SimpleData>
+		<SimpleData name="conservation_storage">170671</SimpleData>
+		<SimpleData name="dead_pool_elevation">874</SimpleData>
+		<SimpleData name="elevation">921.53</SimpleData>
+		<SimpleData name="full_name">Lake Arrowhead</SimpleData>
+		<SimpleData name="percent_full">74.1</SimpleData>
+		<SimpleData name="short_name">Arrowhead</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_wichita_falls,region_region_b,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">170671</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">230359.321694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.37171936,33.76426697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Athens</SimpleData>
+		<SimpleData name="conservation_capacity">29503</SimpleData>
+		<SimpleData name="conservation_pool_elevation">440</SimpleData>
+		<SimpleData name="conservation_storage">29503</SimpleData>
+		<SimpleData name="dead_pool_elevation">396.5</SimpleData>
+		<SimpleData name="elevation">440.27</SimpleData>
+		<SimpleData name="full_name">Lake Athens</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Athens</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_east_texas,water_supply,texas,major,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">30048</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">29544.4772310291</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.76499939,32.21055603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1538.05</SimpleData>
+		<SimpleData name="condensed_name">Austin</SimpleData>
+		<SimpleData name="conservation_capacity">23972</SimpleData>
+		<SimpleData name="conservation_pool_elevation">492.8</SimpleData>
+		<SimpleData name="conservation_storage">22834</SimpleData>
+		<SimpleData name="dead_pool_elevation">462</SimpleData>
+		<SimpleData name="elevation">492.07</SimpleData>
+		<SimpleData name="full_name">Lake Austin</SimpleData>
+		<SimpleData name="percent_full">95.3</SimpleData>
+		<SimpleData name="short_name">Austin</SimpleData>
+		<SimpleData name="tags">(8:climate_south_central,monitored,region_lower_colorado,water_supply,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">23443</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">24581.1355742</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.78639221,30.31548309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">BASteinhagen</SimpleData>
+		<SimpleData name="conservation_capacity">69186</SimpleData>
+		<SimpleData name="conservation_pool_elevation">83</SimpleData>
+		<SimpleData name="conservation_storage">69186</SimpleData>
+		<SimpleData name="dead_pool_elevation">52</SimpleData>
+		<SimpleData name="elevation">83.09</SimpleData>
+		<SimpleData name="full_name">B. A. Steinhagen Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">B A Steinhagen</SimpleData>
+		<SimpleData name="tags">(8:climate_east_texas,monitored,municipal_beaumont_port_arthur,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">70185</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">69259.394697</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.18019104,30.79548073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">4031.14</SimpleData>
+		<SimpleData name="condensed_name">Bardwell</SimpleData>
+		<SimpleData name="conservation_capacity">43856</SimpleData>
+		<SimpleData name="conservation_pool_elevation">421</SimpleData>
+		<SimpleData name="conservation_storage">43856</SimpleData>
+		<SimpleData name="dead_pool_elevation">391</SimpleData>
+		<SimpleData name="elevation">426.63</SimpleData>
+		<SimpleData name="full_name">Bardwell Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Bardwell</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_c,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">64617</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">43917.22888</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.64720917,32.25014877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Barker</SimpleData>
+		<SimpleData name="conservation_pool_elevation">70.9</SimpleData>
+		<SimpleData name="dead_pool_elevation">70.9</SimpleData>
+		<SimpleData name="elevation">87.1</SimpleData>
+		<SimpleData name="full_name">Barker Reservoir</SimpleData>
+		<SimpleData name="short_name">Barker</SimpleData>
+		<SimpleData name="tags">(8:climate_upper_coast,monitored,municipal_houston,region_region_h,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.64717102,29.76995087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Belton</SimpleData>
+		<SimpleData name="conservation_capacity">432631</SimpleData>
+		<SimpleData name="conservation_pool_elevation">594</SimpleData>
+		<SimpleData name="conservation_storage">432631</SimpleData>
+		<SimpleData name="dead_pool_elevation">483</SimpleData>
+		<SimpleData name="elevation">595</SimpleData>
+		<SimpleData name="full_name">Belton Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Belton</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_temple_killeen,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">445207</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">432630.908196</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.47473145,31.10628891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">3541.2</SimpleData>
+		<SimpleData name="condensed_name">Benbrook</SimpleData>
+		<SimpleData name="conservation_capacity">85648</SimpleData>
+		<SimpleData name="conservation_pool_elevation">694</SimpleData>
+		<SimpleData name="conservation_storage">81996</SimpleData>
+		<SimpleData name="dead_pool_elevation">622</SimpleData>
+		<SimpleData name="elevation">692.99</SimpleData>
+		<SimpleData name="full_name">Benbrook Lake</SimpleData>
+		<SimpleData name="percent_full">95.7</SimpleData>
+		<SimpleData name="short_name">Benbrook</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_fort_worth,region_region_c,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">81996</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">85648.116621</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.44863129,32.65068817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">BobSandlin</SimpleData>
+		<SimpleData name="conservation_capacity">192417</SimpleData>
+		<SimpleData name="conservation_pool_elevation">337.5</SimpleData>
+		<SimpleData name="conservation_storage">192417</SimpleData>
+		<SimpleData name="dead_pool_elevation">300</SimpleData>
+		<SimpleData name="elevation">337.81</SimpleData>
+		<SimpleData name="full_name">Lake Bob Sandlin</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Bob Sandlin</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_north_east_texas,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">205913</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">203147.723186</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.00215912,33.08012009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">16275.15</SimpleData>
+		<SimpleData name="condensed_name">BoisDArc</SimpleData>
+		<SimpleData name="conservation_capacity">367609</SimpleData>
+		<SimpleData name="conservation_pool_elevation">534</SimpleData>
+		<SimpleData name="conservation_storage">358288</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">533.42</SimpleData>
+		<SimpleData name="full_name">Bois d'Arc Lake</SimpleData>
+		<SimpleData name="percent_full">97.5</SimpleData>
+		<SimpleData name="short_name">Bois d'Arc</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_c,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">358288</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">367609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.9647222,33.7083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1009.25</SimpleData>
+		<SimpleData name="condensed_name">Bonham</SimpleData>
+		<SimpleData name="conservation_capacity">11027</SimpleData>
+		<SimpleData name="conservation_pool_elevation">565</SimpleData>
+		<SimpleData name="conservation_storage">10068</SimpleData>
+		<SimpleData name="dead_pool_elevation">538</SimpleData>
+		<SimpleData name="elevation">564.07</SimpleData>
+		<SimpleData name="full_name">Lake Bonham</SimpleData>
+		<SimpleData name="percent_full">91.3</SimpleData>
+		<SimpleData name="short_name">Bonham</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_c,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">10080</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">11038.27438</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.16414642,33.64538193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1085.8</SimpleData>
+		<SimpleData name="condensed_name">BradyCreek</SimpleData>
+		<SimpleData name="conservation_capacity">28808</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1743</SimpleData>
+		<SimpleData name="conservation_storage">11805</SimpleData>
+		<SimpleData name="dead_pool_elevation">1712</SimpleData>
+		<SimpleData name="elevation">1731.33</SimpleData>
+		<SimpleData name="full_name">Brady Creek Reservoir</SimpleData>
+		<SimpleData name="percent_full">41</SimpleData>
+		<SimpleData name="short_name">Brady Creek</SimpleData>
+		<SimpleData name="tags">(7:climate_edwards_plateau,monitored,region_region_f,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">13427</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">30430</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.38561249,31.13822365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">9989.6</SimpleData>
+		<SimpleData name="condensed_name">Bridgeport</SimpleData>
+		<SimpleData name="conservation_capacity">372183</SimpleData>
+		<SimpleData name="conservation_pool_elevation">836</SimpleData>
+		<SimpleData name="conservation_storage">260754</SimpleData>
+		<SimpleData name="dead_pool_elevation">752</SimpleData>
+		<SimpleData name="elevation">826.01</SimpleData>
+		<SimpleData name="full_name">Bridgeport Reservoir</SimpleData>
+		<SimpleData name="percent_full">70.1</SimpleData>
+		<SimpleData name="short_name">Bridgeport</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_fort_worth,region_region_c,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">260754</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">372183.282163</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.83197784,33.22289276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">6186.6</SimpleData>
+		<SimpleData name="condensed_name">Brownwood</SimpleData>
+		<SimpleData name="conservation_capacity">130868</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1424.6</SimpleData>
+		<SimpleData name="conservation_storage">111704</SimpleData>
+		<SimpleData name="dead_pool_elevation">1329.5</SimpleData>
+		<SimpleData name="elevation">1421.95</SimpleData>
+		<SimpleData name="full_name">Lake Brownwood</SimpleData>
+		<SimpleData name="percent_full">85.4</SimpleData>
+		<SimpleData name="short_name">Brownwood</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_f,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">111704</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">130868.494848638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0039444,31.83709335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">18608.07</SimpleData>
+		<SimpleData name="condensed_name">Buchanan</SimpleData>
+		<SimpleData name="conservation_capacity">822207</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1018</SimpleData>
+		<SimpleData name="conservation_storage">600337</SimpleData>
+		<SimpleData name="dead_pool_elevation">937</SimpleData>
+		<SimpleData name="elevation">1007.21</SimpleData>
+		<SimpleData name="full_name">Lake Buchanan</SimpleData>
+		<SimpleData name="percent_full">73</SimpleData>
+		<SimpleData name="short_name">Buchanan</SimpleData>
+		<SimpleData name="tags">(9:climate_edwards_plateau,monitored,municipal_austin,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">613999</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">835869.135537</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.41836548,30.75156975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">29840.9</SimpleData>
+		<SimpleData name="condensed_name">Caddo</SimpleData>
+		<SimpleData name="conservation_capacity">29898</SimpleData>
+		<SimpleData name="conservation_pool_elevation">168.5</SimpleData>
+		<SimpleData name="conservation_storage">29898</SimpleData>
+		<SimpleData name="dead_pool_elevation">166</SimpleData>
+		<SimpleData name="elevation">169.89</SimpleData>
+		<SimpleData name="full_name">Caddo Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Caddo</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_north_east_texas,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">165492</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">129000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.91462708,32.71014404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">5569.28</SimpleData>
+		<SimpleData name="condensed_name">Canyon</SimpleData>
+		<SimpleData name="conservation_capacity">378781</SimpleData>
+		<SimpleData name="conservation_pool_elevation">909</SimpleData>
+		<SimpleData name="conservation_storage">208603</SimpleData>
+		<SimpleData name="dead_pool_elevation">775</SimpleData>
+		<SimpleData name="elevation">884.16</SimpleData>
+		<SimpleData name="full_name">Canyon Lake</SimpleData>
+		<SimpleData name="percent_full">55.1</SimpleData>
+		<SimpleData name="short_name">Canyon</SimpleData>
+		<SimpleData name="tags">(7:climate_south_central,monitored,region_south_central_texas,water_supply,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">208674</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">378852.213774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.19889832,29.86882973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">32221.6</SimpleData>
+		<SimpleData name="condensed_name">CedarCreek</SimpleData>
+		<SimpleData name="conservation_capacity">644686</SimpleData>
+		<SimpleData name="conservation_pool_elevation">322</SimpleData>
+		<SimpleData name="conservation_storage">631045</SimpleData>
+		<SimpleData name="dead_pool_elevation">263.5</SimpleData>
+		<SimpleData name="elevation">321.58</SimpleData>
+		<SimpleData name="full_name">Cedar Creek Reservoir</SimpleData>
+		<SimpleData name="percent_full">97.9</SimpleData>
+		<SimpleData name="short_name">Cedar Creek</SimpleData>
+		<SimpleData name="tags">(8:climate_east_texas,monitored,municipal_fort_worth,region_region_c,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">631144</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">644785</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.14080811,32.24320221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">997.3</SimpleData>
+		<SimpleData name="condensed_name">ChampionCreek</SimpleData>
+		<SimpleData name="conservation_capacity">41580</SimpleData>
+		<SimpleData name="conservation_pool_elevation">2083</SimpleData>
+		<SimpleData name="conservation_storage">22596</SimpleData>
+		<SimpleData name="dead_pool_elevation">2020</SimpleData>
+		<SimpleData name="elevation">2067.71</SimpleData>
+		<SimpleData name="full_name">Champion Creek Reservoir</SimpleData>
+		<SimpleData name="percent_full">54.3</SimpleData>
+		<SimpleData name="short_name">Champion Creek</SimpleData>
+		<SimpleData name="tags">(7:climate_low_rolling_plains,monitored,region_region_f,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">22596</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">41580</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.8587265,32.28151321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Cherokee</SimpleData>
+		<SimpleData name="conservation_capacity">40094</SimpleData>
+		<SimpleData name="conservation_pool_elevation">280</SimpleData>
+		<SimpleData name="conservation_storage">40094</SimpleData>
+		<SimpleData name="dead_pool_elevation">260</SimpleData>
+		<SimpleData name="elevation">280.28</SimpleData>
+		<SimpleData name="full_name">Lake Cherokee</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Cherokee</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_east_texas,water_supply,texas,major,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">45953</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">44475.072429</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.6685638,32.369194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">10217.2</SimpleData>
+		<SimpleData name="condensed_name">ChokeCanyon</SimpleData>
+		<SimpleData name="conservation_capacity">662820</SimpleData>
+		<SimpleData name="conservation_pool_elevation">220.5</SimpleData>
+		<SimpleData name="conservation_storage">142400</SimpleData>
+		<SimpleData name="dead_pool_elevation">136.4</SimpleData>
+		<SimpleData name="elevation">190.74</SimpleData>
+		<SimpleData name="full_name">Choke Canyon Reservoir</SimpleData>
+		<SimpleData name="percent_full">21.5</SimpleData>
+		<SimpleData name="short_name">Choke Canyon</SimpleData>
+		<SimpleData name="tags">(8:climate_south,monitored,municipal_corpus_christi,region_coastal_bend,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">142401</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">662820.98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.24584198,28.483881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">728.6</SimpleData>
+		<SimpleData name="condensed_name">Cisco</SimpleData>
+		<SimpleData name="conservation_capacity">29003</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1522.46</SimpleData>
+		<SimpleData name="conservation_storage">16725</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">1509.62</SimpleData>
+		<SimpleData name="full_name">Lake Cisco</SimpleData>
+		<SimpleData name="percent_full">57.7</SimpleData>
+		<SimpleData name="short_name">Cisco</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">16725</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">29002.8000023933</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.98562622,32.43790817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1697.92</SimpleData>
+		<SimpleData name="condensed_name">Coleman</SimpleData>
+		<SimpleData name="conservation_capacity">38075</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1717.5</SimpleData>
+		<SimpleData name="conservation_storage">32291</SimpleData>
+		<SimpleData name="dead_pool_elevation">1662.5</SimpleData>
+		<SimpleData name="elevation">1714.21</SimpleData>
+		<SimpleData name="full_name">Lake Coleman</SimpleData>
+		<SimpleData name="percent_full">84.8</SimpleData>
+		<SimpleData name="short_name">Coleman</SimpleData>
+		<SimpleData name="tags">(7:climate_low_rolling_plains,monitored,region_region_f,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">32309</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">38093.907805</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.46534729,32.03013992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">2486.45</SimpleData>
+		<SimpleData name="condensed_name">ColetoCreek</SimpleData>
+		<SimpleData name="conservation_capacity">31040</SimpleData>
+		<SimpleData name="conservation_pool_elevation">98</SimpleData>
+		<SimpleData name="conservation_storage">28231</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">96.81</SimpleData>
+		<SimpleData name="full_name">Coleto Creek Reservoir</SimpleData>
+		<SimpleData name="percent_full">91</SimpleData>
+		<SimpleData name="short_name">Coleto Creek</SimpleData>
+		<SimpleData name="tags">(7:climate_south_central,monitored,region_south_central_texas,water_supply,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">28231</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">31040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.16499329,28.7311039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">ColoradoCity</SimpleData>
+		<SimpleData name="conservation_capacity">30758</SimpleData>
+		<SimpleData name="conservation_pool_elevation">2070.2</SimpleData>
+		<SimpleData name="conservation_storage">13211</SimpleData>
+		<SimpleData name="dead_pool_elevation">2024.3</SimpleData>
+		<SimpleData name="elevation">2055.7</SimpleData>
+		<SimpleData name="full_name">Lake Colorado City</SimpleData>
+		<SimpleData name="percent_full">43</SimpleData>
+		<SimpleData name="short_name">Colorado City</SimpleData>
+		<SimpleData name="tags">(7:climate_low_rolling_plains,monitored,region_region_f,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">13211</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">30758</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.919838,32.344841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">20468.98</SimpleData>
+		<SimpleData name="condensed_name">Conroe</SimpleData>
+		<SimpleData name="conservation_capacity">417577</SimpleData>
+		<SimpleData name="conservation_pool_elevation">201</SimpleData>
+		<SimpleData name="conservation_storage">417577</SimpleData>
+		<SimpleData name="dead_pool_elevation">145</SimpleData>
+		<SimpleData name="elevation">201.07</SimpleData>
+		<SimpleData name="full_name">Lake Conroe</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Conroe</SimpleData>
+		<SimpleData name="tags">(8:climate_east_texas,monitored,municipal_houston,region_region_h,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">419562</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">417604.712144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.56105042,30.35854149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">12586.16</SimpleData>
+		<SimpleData name="condensed_name">CorpusChristi</SimpleData>
+		<SimpleData name="conservation_capacity">256062</SimpleData>
+		<SimpleData name="conservation_pool_elevation">94</SimpleData>
+		<SimpleData name="conservation_storage">103598</SimpleData>
+		<SimpleData name="dead_pool_elevation">55.5</SimpleData>
+		<SimpleData name="elevation">84.74</SimpleData>
+		<SimpleData name="full_name">Lake Corpus Christi</SimpleData>
+		<SimpleData name="percent_full">40.5</SimpleData>
+		<SimpleData name="short_name">Corpus Christi</SimpleData>
+		<SimpleData name="tags">(8:climate_south,monitored,municipal_corpus_christi,region_coastal_bend,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">103876</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">256339.476033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.87110901,28.03834724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1031.41</SimpleData>
+		<SimpleData name="condensed_name">Crook</SimpleData>
+		<SimpleData name="conservation_capacity">9195</SimpleData>
+		<SimpleData name="conservation_pool_elevation">476</SimpleData>
+		<SimpleData name="conservation_storage">8613</SimpleData>
+		<SimpleData name="dead_pool_elevation">456.8</SimpleData>
+		<SimpleData name="elevation">475.44</SimpleData>
+		<SimpleData name="full_name">Lake Crook</SimpleData>
+		<SimpleData name="percent_full">93.7</SimpleData>
+		<SimpleData name="short_name">Crook</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_north_east_texas,water_supply,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">8628</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">9210.359596</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.56690216,33.72843933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">CypressSprings</SimpleData>
+		<SimpleData name="conservation_capacity">66756</SimpleData>
+		<SimpleData name="conservation_pool_elevation">378</SimpleData>
+		<SimpleData name="conservation_storage">66756</SimpleData>
+		<SimpleData name="dead_pool_elevation">317.75</SimpleData>
+		<SimpleData name="elevation">378.37</SimpleData>
+		<SimpleData name="full_name">Lake Cypress Springs</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Cypress Springs</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_north_east_texas,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">67957</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">66755.620202</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.15888977,33.06611252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">4278.3</SimpleData>
+		<SimpleData name="condensed_name">EVSpence</SimpleData>
+		<SimpleData name="conservation_capacity">517272</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1898</SimpleData>
+		<SimpleData name="conservation_storage">72550</SimpleData>
+		<SimpleData name="dead_pool_elevation">1790</SimpleData>
+		<SimpleData name="elevation">1848.64</SimpleData>
+		<SimpleData name="full_name">E. V. Spence Reservoir</SimpleData>
+		<SimpleData name="percent_full">14</SimpleData>
+		<SimpleData name="short_name">E V Spence</SimpleData>
+		<SimpleData name="tags">(8:climate_edwards_plateau,monitored,municipal_midland_odessa,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">72550</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">517272.0955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.5173187,31.87958908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">8623.59</SimpleData>
+		<SimpleData name="condensed_name">EagleMountain</SimpleData>
+		<SimpleData name="conservation_capacity">185087</SimpleData>
+		<SimpleData name="conservation_pool_elevation">649.1</SimpleData>
+		<SimpleData name="conservation_storage">167944</SimpleData>
+		<SimpleData name="dead_pool_elevation">599.9</SimpleData>
+		<SimpleData name="elevation">647.18</SimpleData>
+		<SimpleData name="full_name">Eagle Mountain Reservoir</SimpleData>
+		<SimpleData name="percent_full">90.7</SimpleData>
+		<SimpleData name="short_name">Eagle Mountain</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_fort_worth,region_region_c,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">167944</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">185086.636547</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.47502136,32.87762833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">9206.3</SimpleData>
+		<SimpleData name="condensed_name">ElephantButte</SimpleData>
+		<SimpleData name="conservation_capacity">1960900</SimpleData>
+		<SimpleData name="conservation_pool_elevation">4405.587736</SimpleData>
+		<SimpleData name="conservation_storage">269164</SimpleData>
+		<SimpleData name="dead_pool_elevation">4231.5</SimpleData>
+		<SimpleData name="elevation">4321.19</SimpleData>
+		<SimpleData name="full_name">Elephant Butte Lake</SimpleData>
+		<SimpleData name="percent_full">13.7</SimpleData>
+		<SimpleData name="short_name">Elephant Butte</SimpleData>
+		<SimpleData name="tags">(5:monitored,municipal_el_paso,water_supply,new_mexico,major)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">269164</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">1960900.00264</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-107.1911,33.1542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">21493.88</SimpleData>
+		<SimpleData name="condensed_name">Falcon</SimpleData>
+		<SimpleData name="conservation_capacity">1562367</SimpleData>
+		<SimpleData name="conservation_pool_elevation">301.2</SimpleData>
+		<SimpleData name="conservation_storage">208144</SimpleData>
+		<SimpleData name="dead_pool_elevation">204.34</SimpleData>
+		<SimpleData name="elevation">255.63</SimpleData>
+		<SimpleData name="full_name">Falcon Reservoir</SimpleData>
+		<SimpleData name="percent_full">13.3</SimpleData>
+		<SimpleData name="short_name">Falcon</SimpleData>
+		<SimpleData name="tags">(8:climate_south,monitored,municipal_brownsville,region_rio_grande,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">320872</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">2666203</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.16056,26.55722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">26415.33</SimpleData>
+		<SimpleData name="condensed_name">Fork</SimpleData>
+		<SimpleData name="conservation_capacity">605061</SimpleData>
+		<SimpleData name="conservation_pool_elevation">403</SimpleData>
+		<SimpleData name="conservation_storage">602412</SimpleData>
+		<SimpleData name="dead_pool_elevation">360</SimpleData>
+		<SimpleData name="elevation">402.9</SimpleData>
+		<SimpleData name="full_name">Lake Fork Reservoir</SimpleData>
+		<SimpleData name="percent_full">99.6</SimpleData>
+		<SimpleData name="short_name">Fork</SimpleData>
+		<SimpleData name="tags">(8:climate_east_texas,monitored,municipal_dallas,region_north_east_texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">633855</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">636503.684114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.52800751,32.81345749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">2949</SimpleData>
+		<SimpleData name="condensed_name">FortPhantomHill</SimpleData>
+		<SimpleData name="conservation_capacity">70030</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1635.9</SimpleData>
+		<SimpleData name="conservation_storage">45916</SimpleData>
+		<SimpleData name="dead_pool_elevation">1582.4</SimpleData>
+		<SimpleData name="elevation">1628.79</SimpleData>
+		<SimpleData name="full_name">Fort Phantom Hill Reservoir</SimpleData>
+		<SimpleData name="percent_full">65.6</SimpleData>
+		<SimpleData name="short_name">Fort Phantom Hill</SimpleData>
+		<SimpleData name="tags">(8:climate_low_rolling_plains,monitored,municipal_abilene,region_brazos_g,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">45922</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">70036</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.68064117,32.59623337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1162.01</SimpleData>
+		<SimpleData name="condensed_name">Georgetown</SimpleData>
+		<SimpleData name="conservation_capacity">38005</SimpleData>
+		<SimpleData name="conservation_pool_elevation">791</SimpleData>
+		<SimpleData name="conservation_storage">31234</SimpleData>
+		<SimpleData name="dead_pool_elevation">720</SimpleData>
+		<SimpleData name="elevation">785.51</SimpleData>
+		<SimpleData name="full_name">Lake Georgetown</SimpleData>
+		<SimpleData name="percent_full">82.2</SimpleData>
+		<SimpleData name="short_name">Georgetown</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_austin,region_brazos_g,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">31297</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">38068.00652</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.72750854,30.66769218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">2514.7</SimpleData>
+		<SimpleData name="condensed_name">GibbonsCreek</SimpleData>
+		<SimpleData name="conservation_capacity">25721</SimpleData>
+		<SimpleData name="conservation_pool_elevation">247</SimpleData>
+		<SimpleData name="conservation_storage">24834</SimpleData>
+		<SimpleData name="dead_pool_elevation">229.39</SimpleData>
+		<SimpleData name="elevation">246.65</SimpleData>
+		<SimpleData name="full_name">Gibbons Creek Reservoir</SimpleData>
+		<SimpleData name="percent_full">96.6</SimpleData>
+		<SimpleData name="short_name">Gibbons Creek</SimpleData>
+		<SimpleData name="tags">(7:major,water_supply,basin_brazos,region_brazos_g,climate_east_texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">26538</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">27425.013774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.065406,30.609414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">2276.71</SimpleData>
+		<SimpleData name="condensed_name">Graham</SimpleData>
+		<SimpleData name="conservation_capacity">45288</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1075</SimpleData>
+		<SimpleData name="conservation_storage">39454</SimpleData>
+		<SimpleData name="dead_pool_elevation">1030</SimpleData>
+		<SimpleData name="elevation">1072.56</SimpleData>
+		<SimpleData name="full_name">Lake Graham</SimpleData>
+		<SimpleData name="percent_full">87.1</SimpleData>
+		<SimpleData name="short_name">Graham</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">39468</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">45302.425</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.61367035,33.13455963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">8080.98</SimpleData>
+		<SimpleData name="condensed_name">Granbury</SimpleData>
+		<SimpleData name="conservation_capacity">132949</SimpleData>
+		<SimpleData name="conservation_pool_elevation">692.7</SimpleData>
+		<SimpleData name="conservation_storage">130918</SimpleData>
+		<SimpleData name="dead_pool_elevation">640</SimpleData>
+		<SimpleData name="elevation">692.45</SimpleData>
+		<SimpleData name="full_name">Lake Granbury</SimpleData>
+		<SimpleData name="percent_full">98.5</SimpleData>
+		<SimpleData name="short_name">Granbury</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">131827</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">133857.989417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.68919373,32.37430573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Granger</SimpleData>
+		<SimpleData name="conservation_capacity">51822</SimpleData>
+		<SimpleData name="conservation_pool_elevation">504</SimpleData>
+		<SimpleData name="conservation_storage">51822</SimpleData>
+		<SimpleData name="dead_pool_elevation">457</SimpleData>
+		<SimpleData name="elevation">505.41</SimpleData>
+		<SimpleData name="full_name">Granger Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Granger</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">57829</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">51822.4573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.3263855,30.69297218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Grapevine</SimpleData>
+		<SimpleData name="conservation_capacity">163064</SimpleData>
+		<SimpleData name="conservation_pool_elevation">535</SimpleData>
+		<SimpleData name="conservation_storage">163064</SimpleData>
+		<SimpleData name="dead_pool_elevation">475</SimpleData>
+		<SimpleData name="elevation">543.35</SimpleData>
+		<SimpleData name="full_name">Grapevine Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Grapevine</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_dallas,region_region_c,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">226712</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">163063.866299</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.05639648,32.97262573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">430.2</SimpleData>
+		<SimpleData name="condensed_name">Greenbelt</SimpleData>
+		<SimpleData name="conservation_capacity">59968</SimpleData>
+		<SimpleData name="conservation_pool_elevation">2664</SimpleData>
+		<SimpleData name="conservation_storage">5973</SimpleData>
+		<SimpleData name="dead_pool_elevation">2590</SimpleData>
+		<SimpleData name="elevation">2616.11</SimpleData>
+		<SimpleData name="full_name">Greenbelt Lake</SimpleData>
+		<SimpleData name="percent_full">10</SimpleData>
+		<SimpleData name="short_name">Greenbelt</SimpleData>
+		<SimpleData name="tags">(7:climate_low_rolling_plains,monitored,region_panhandle,water_supply,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">6405</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">60400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.8948669,35.00060654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">536.29</SimpleData>
+		<SimpleData name="condensed_name">Halbert</SimpleData>
+		<SimpleData name="conservation_capacity">6033</SimpleData>
+		<SimpleData name="conservation_pool_elevation">368</SimpleData>
+		<SimpleData name="conservation_storage">5036</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">366.21</SimpleData>
+		<SimpleData name="full_name">Halbert Lake</SimpleData>
+		<SimpleData name="percent_full">83.5</SimpleData>
+		<SimpleData name="short_name">Halbert</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_c,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">5036</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">6032.805142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.41609192,32.07126617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">193.88</SimpleData>
+		<SimpleData name="condensed_name">HordsCreek</SimpleData>
+		<SimpleData name="conservation_capacity">8109</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1900</SimpleData>
+		<SimpleData name="conservation_storage">2395</SimpleData>
+		<SimpleData name="dead_pool_elevation">1856</SimpleData>
+		<SimpleData name="elevation">1882.84</SimpleData>
+		<SimpleData name="full_name">Hords Creek Lake</SimpleData>
+		<SimpleData name="percent_full">29.5</SimpleData>
+		<SimpleData name="short_name">Hords Creek</SimpleData>
+		<SimpleData name="tags">(7:climate_low_rolling_plains,monitored,region_region_f,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">2398</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">8112</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.56090546,31.83292389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Houston</SimpleData>
+		<SimpleData name="conservation_capacity">132318</SimpleData>
+		<SimpleData name="conservation_pool_elevation">42.38</SimpleData>
+		<SimpleData name="conservation_storage">132318</SimpleData>
+		<SimpleData name="dead_pool_elevation">19.23</SimpleData>
+		<SimpleData name="elevation">42.67</SimpleData>
+		<SimpleData name="full_name">Lake Houston</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Houston</SimpleData>
+		<SimpleData name="tags">(8:climate_upper_coast,monitored,municipal_houston,region_region_h,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">139456</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">136119.325735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.14131927,29.91633224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">HoustonCounty</SimpleData>
+		<SimpleData name="conservation_capacity">17113</SimpleData>
+		<SimpleData name="conservation_pool_elevation">260</SimpleData>
+		<SimpleData name="conservation_storage">17113</SimpleData>
+		<SimpleData name="dead_pool_elevation">234</SimpleData>
+		<SimpleData name="elevation">260.24</SimpleData>
+		<SimpleData name="full_name">Houston County Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Houston County</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_east_texas,water_supply,texas,major,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">17977</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">17665.075482</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.60189819,31.40684509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">9755.1</SimpleData>
+		<SimpleData name="condensed_name">HubbardCreek</SimpleData>
+		<SimpleData name="conservation_capacity">313298</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1183.31</SimpleData>
+		<SimpleData name="conservation_storage">151590</SimpleData>
+		<SimpleData name="dead_pool_elevation">1136.31</SimpleData>
+		<SimpleData name="elevation">1170.48</SimpleData>
+		<SimpleData name="full_name">Hubbard Creek Reservoir</SimpleData>
+		<SimpleData name="percent_full">48.4</SimpleData>
+		<SimpleData name="short_name">Hubbard Creek</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_abilene,region_brazos_g,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">156466</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">318173.650046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.96784973,32.83150864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1058.44</SimpleData>
+		<SimpleData name="condensed_name">HubertHMoss</SimpleData>
+		<SimpleData name="conservation_capacity">24058</SimpleData>
+		<SimpleData name="conservation_pool_elevation">715</SimpleData>
+		<SimpleData name="conservation_storage">23117</SimpleData>
+		<SimpleData name="dead_pool_elevation">666</SimpleData>
+		<SimpleData name="elevation">714.12</SimpleData>
+		<SimpleData name="full_name">Moss Lake</SimpleData>
+		<SimpleData name="percent_full">96.1</SimpleData>
+		<SimpleData name="short_name">Hubert H Moss</SimpleData>
+		<SimpleData name="tags">(7:texas,major,climate_north_central,monitored,region_region_c,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">23214</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">24154.60202</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.21417999,33.77399445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">791.14</SimpleData>
+		<SimpleData name="condensed_name">Inks</SimpleData>
+		<SimpleData name="conservation_capacity">13729</SimpleData>
+		<SimpleData name="conservation_pool_elevation">888</SimpleData>
+		<SimpleData name="conservation_storage">13139</SimpleData>
+		<SimpleData name="dead_pool_elevation">844.5</SimpleData>
+		<SimpleData name="elevation">887.26</SimpleData>
+		<SimpleData name="full_name">Inks Lake</SimpleData>
+		<SimpleData name="percent_full">95.7</SimpleData>
+		<SimpleData name="short_name">Inks</SimpleData>
+		<SimpleData name="tags">(8:climate_edwards_plateau,monitored,region_lower_colorado,water_supply,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">13422</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">14011.957112</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.38502502,30.73129272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">2989.41</SimpleData>
+		<SimpleData name="condensed_name">JBThomas</SimpleData>
+		<SimpleData name="conservation_capacity">199931</SimpleData>
+		<SimpleData name="conservation_pool_elevation">2258</SimpleData>
+		<SimpleData name="conservation_storage">36828</SimpleData>
+		<SimpleData name="dead_pool_elevation">2200</SimpleData>
+		<SimpleData name="elevation">2225.03</SimpleData>
+		<SimpleData name="full_name">Lake J.B. Thomas</SimpleData>
+		<SimpleData name="percent_full">18.4</SimpleData>
+		<SimpleData name="short_name">J B Thomas</SimpleData>
+		<SimpleData name="tags">(8:climate_low_rolling_plains,monitored,municipal_midland_odessa,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">37501</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">200603.598163</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.138176,32.59316635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Jacksonville</SimpleData>
+		<SimpleData name="conservation_capacity">25670</SimpleData>
+		<SimpleData name="conservation_pool_elevation">422</SimpleData>
+		<SimpleData name="conservation_storage">25670</SimpleData>
+		<SimpleData name="dead_pool_elevation">372</SimpleData>
+		<SimpleData name="elevation">422.13</SimpleData>
+		<SimpleData name="full_name">Lake Jacksonville</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Jacksonville</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_east_texas,water_supply,texas,major,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">25883</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">25731.81708</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.30995178,31.90850258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">17923.13</SimpleData>
+		<SimpleData name="condensed_name">JimChapman</SimpleData>
+		<SimpleData name="conservation_capacity">258723</SimpleData>
+		<SimpleData name="conservation_pool_elevation">440</SimpleData>
+		<SimpleData name="conservation_storage">256388</SimpleData>
+		<SimpleData name="dead_pool_elevation">415.5</SimpleData>
+		<SimpleData name="elevation">439.87</SimpleData>
+		<SimpleData name="full_name">Cooper (Chapman) Lake</SimpleData>
+		<SimpleData name="percent_full">99.1</SimpleData>
+		<SimpleData name="short_name">Jim Chapman</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_north_east_texas,water_supply,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">292163</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">294497.616047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.62523651,33.33344269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">6812.58</SimpleData>
+		<SimpleData name="condensed_name">JoePool</SimpleData>
+		<SimpleData name="conservation_capacity">149629</SimpleData>
+		<SimpleData name="conservation_pool_elevation">522</SimpleData>
+		<SimpleData name="conservation_storage">149629</SimpleData>
+		<SimpleData name="dead_pool_elevation">466</SimpleData>
+		<SimpleData name="elevation">522.56</SimpleData>
+		<SimpleData name="full_name">Joe Pool Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Joe Pool</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_c,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">154782</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">150998.977227</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.00111389,32.64346695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Kemp</SimpleData>
+		<SimpleData name="conservation_capacity">245307</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1144</SimpleData>
+		<SimpleData name="conservation_storage">245307</SimpleData>
+		<SimpleData name="dead_pool_elevation">1090</SimpleData>
+		<SimpleData name="elevation">1146.45</SimpleData>
+		<SimpleData name="full_name">Lake Kemp</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Kemp</SimpleData>
+		<SimpleData name="tags">(8:climate_low_rolling_plains,monitored,municipal_wichita_falls,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">284392</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">245433.617631</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.15118408,33.75842667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">5054.76</SimpleData>
+		<SimpleData name="condensed_name">Kickapoo</SimpleData>
+		<SimpleData name="conservation_capacity">86345</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1045</SimpleData>
+		<SimpleData name="conservation_storage">66910</SimpleData>
+		<SimpleData name="dead_pool_elevation">1000.92</SimpleData>
+		<SimpleData name="elevation">1041.44</SimpleData>
+		<SimpleData name="full_name">Lake Kickapoo</SimpleData>
+		<SimpleData name="percent_full">77.5</SimpleData>
+		<SimpleData name="short_name">Kickapoo</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_wichita_falls,region_region_b,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">66910</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">86344.682828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.77895355,33.6631546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Lake O' the Pines</SimpleData>
+		<SimpleData name="conservation_capacity">268566</SimpleData>
+		<SimpleData name="conservation_pool_elevation">230</SimpleData>
+		<SimpleData name="conservation_storage">268566</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">231.02</SimpleData>
+		<SimpleData name="full_name">Lake O the Pines</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Lake O' the Pines</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_north_east_texas,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">287926</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">268566.066563797</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.49936676,32.7551384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">21281.21</SimpleData>
+		<SimpleData name="condensed_name">Lavon</SimpleData>
+		<SimpleData name="conservation_capacity">409757</SimpleData>
+		<SimpleData name="conservation_pool_elevation">492</SimpleData>
+		<SimpleData name="conservation_storage">409757</SimpleData>
+		<SimpleData name="dead_pool_elevation">453</SimpleData>
+		<SimpleData name="elevation">493.24</SimpleData>
+		<SimpleData name="full_name">Lavon Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Lavon</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_dallas,region_region_c,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">438604</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">412597.759022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.48249054,33.03178787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1108.58</SimpleData>
+		<SimpleData name="condensed_name">Leon</SimpleData>
+		<SimpleData name="conservation_capacity">27762</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1375</SimpleData>
+		<SimpleData name="conservation_storage">13802</SimpleData>
+		<SimpleData name="dead_pool_elevation">1335</SimpleData>
+		<SimpleData name="elevation">1365.05</SimpleData>
+		<SimpleData name="full_name">Leon Reservoir</SimpleData>
+		<SimpleData name="percent_full">49.7</SimpleData>
+		<SimpleData name="short_name">Leon</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">14082</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">28042.134114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.6756134,32.36374283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Lewisville</SimpleData>
+		<SimpleData name="conservation_capacity">563228</SimpleData>
+		<SimpleData name="conservation_pool_elevation">522</SimpleData>
+		<SimpleData name="conservation_storage">563228</SimpleData>
+		<SimpleData name="dead_pool_elevation">481</SimpleData>
+		<SimpleData name="elevation">524.64</SimpleData>
+		<SimpleData name="full_name">Lewisville Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Lewisville</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_dallas,region_region_c,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">672636</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">598901.915152</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.96444702,33.06928635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">12201.07</SimpleData>
+		<SimpleData name="condensed_name">Limestone</SimpleData>
+		<SimpleData name="conservation_capacity">203780</SimpleData>
+		<SimpleData name="conservation_pool_elevation">363</SimpleData>
+		<SimpleData name="conservation_storage">196520</SimpleData>
+		<SimpleData name="dead_pool_elevation">322</SimpleData>
+		<SimpleData name="elevation">362.41</SimpleData>
+		<SimpleData name="full_name">Lake Limestone</SimpleData>
+		<SimpleData name="percent_full">96.4</SimpleData>
+		<SimpleData name="short_name">Limestone</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">196520</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">203780.442975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.31913757,31.32517815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">75370.85</SimpleData>
+		<SimpleData name="condensed_name">Livingston</SimpleData>
+		<SimpleData name="conservation_capacity">1603504</SimpleData>
+		<SimpleData name="conservation_pool_elevation">131</SimpleData>
+		<SimpleData name="conservation_storage">1547681</SimpleData>
+		<SimpleData name="dead_pool_elevation">58</SimpleData>
+		<SimpleData name="elevation">130.27</SimpleData>
+		<SimpleData name="full_name">Livingston Reservoir</SimpleData>
+		<SimpleData name="percent_full">96.5</SimpleData>
+		<SimpleData name="short_name">Livingston</SimpleData>
+		<SimpleData name="tags">(8:climate_east_texas,monitored,municipal_houston,region_region_h,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">1547681</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">1603503.992723</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.01021576,30.63353157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">LostCreek</SimpleData>
+		<SimpleData name="conservation_capacity">11950</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1009.5</SimpleData>
+		<SimpleData name="conservation_storage">11489</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">1008.4</SimpleData>
+		<SimpleData name="full_name">Lost Creek Reservoir</SimpleData>
+		<SimpleData name="percent_full">96.1</SimpleData>
+		<SimpleData name="short_name">Lost Creek</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_c,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">11489</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">11949.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.12004089,33.24344635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">6402.78</SimpleData>
+		<SimpleData name="condensed_name">LyndonBJohnson</SimpleData>
+		<SimpleData name="conservation_capacity">112778</SimpleData>
+		<SimpleData name="conservation_pool_elevation">825</SimpleData>
+		<SimpleData name="conservation_storage">110788</SimpleData>
+		<SimpleData name="dead_pool_elevation">793.4</SimpleData>
+		<SimpleData name="elevation">824.69</SimpleData>
+		<SimpleData name="full_name">Lake L. B. Johnson</SimpleData>
+		<SimpleData name="percent_full">98.2</SimpleData>
+		<SimpleData name="short_name">Lyndon B Johnson</SimpleData>
+		<SimpleData name="tags">(8:climate_edwards_plateau,monitored,region_lower_colorado,water_supply,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">129628</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">131617.787052</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.33835602,30.55602264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">208</SimpleData>
+		<SimpleData name="condensed_name">Mackenzie</SimpleData>
+		<SimpleData name="conservation_capacity">46450</SimpleData>
+		<SimpleData name="conservation_pool_elevation">3100</SimpleData>
+		<SimpleData name="conservation_storage">4218</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">3014.37</SimpleData>
+		<SimpleData name="full_name">Mackenzie Reservoir</SimpleData>
+		<SimpleData name="percent_full">9.1</SimpleData>
+		<SimpleData name="short_name">Mackenzie</SimpleData>
+		<SimpleData name="tags">(7:climate_high_plains,monitored,region_llano_estacado,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">4218</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">46450</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.4382248,34.54534149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">601.45</SimpleData>
+		<SimpleData name="condensed_name">MarbleFalls</SimpleData>
+		<SimpleData name="conservation_capacity">7597</SimpleData>
+		<SimpleData name="conservation_pool_elevation">737</SimpleData>
+		<SimpleData name="conservation_storage">7227</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">736.39</SimpleData>
+		<SimpleData name="full_name">Lake Marble Falls</SimpleData>
+		<SimpleData name="percent_full">95.1</SimpleData>
+		<SimpleData name="short_name">Marble Falls</SimpleData>
+		<SimpleData name="tags">(7:climate_edwards_plateau,monitored,region_lower_colorado,water_supply,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">7227</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">7597.242273</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.25722222,30.55583333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">4923.37</SimpleData>
+		<SimpleData name="condensed_name">Martin</SimpleData>
+		<SimpleData name="conservation_capacity">75726</SimpleData>
+		<SimpleData name="conservation_pool_elevation">306</SimpleData>
+		<SimpleData name="conservation_storage">74887</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">305.83</SimpleData>
+		<SimpleData name="full_name">Martin Lake</SimpleData>
+		<SimpleData name="percent_full">98.9</SimpleData>
+		<SimpleData name="short_name">Martin</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_east_texas,water_supply,texas,major,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">74887</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">75726.081175</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.57325745,32.26182556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">538.34</SimpleData>
+		<SimpleData name="condensed_name">Medina</SimpleData>
+		<SimpleData name="conservation_capacity">254823</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1064.2</SimpleData>
+		<SimpleData name="conservation_storage">5595</SimpleData>
+		<SimpleData name="dead_pool_elevation">912.2</SimpleData>
+		<SimpleData name="elevation">970.09</SimpleData>
+		<SimpleData name="full_name">Medina Lake</SimpleData>
+		<SimpleData name="percent_full">2.2</SimpleData>
+		<SimpleData name="short_name">Medina</SimpleData>
+		<SimpleData name="tags">(7:climate_south_central,monitored,region_south_central_texas,water_supply,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">5595</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">254823.232323</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.93392181,29.5402298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">7435.79</SimpleData>
+		<SimpleData name="condensed_name">Meredith</SimpleData>
+		<SimpleData name="conservation_capacity">500000</SimpleData>
+		<SimpleData name="conservation_pool_elevation">2936.5</SimpleData>
+		<SimpleData name="conservation_storage">207852</SimpleData>
+		<SimpleData name="dead_pool_elevation">2850</SimpleData>
+		<SimpleData name="elevation">2889.54</SimpleData>
+		<SimpleData name="full_name">Lake Meredith</SimpleData>
+		<SimpleData name="percent_full">41.6</SimpleData>
+		<SimpleData name="short_name">Meredith</SimpleData>
+		<SimpleData name="tags">(9:climate_high_plains,monitored,municipal_amarillo,municipal_lubbock,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">246266</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">817969.789532</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.5512848,35.71059799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">2189</SimpleData>
+		<SimpleData name="condensed_name">MillersCreek</SimpleData>
+		<SimpleData name="conservation_capacity">26768</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1334</SimpleData>
+		<SimpleData name="conservation_storage">26329</SimpleData>
+		<SimpleData name="dead_pool_elevation">1305</SimpleData>
+		<SimpleData name="elevation">1333.8</SimpleData>
+		<SimpleData name="full_name">Millers Creek Reservoir</SimpleData>
+		<SimpleData name="percent_full">98.4</SimpleData>
+		<SimpleData name="short_name">Millers Creek</SimpleData>
+		<SimpleData name="tags">(7:climate_low_rolling_plains,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">27612</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">28051</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.38896942,33.40898514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">456.81</SimpleData>
+		<SimpleData name="condensed_name">MineralWells</SimpleData>
+		<SimpleData name="conservation_capacity">5273</SimpleData>
+		<SimpleData name="conservation_pool_elevation">863</SimpleData>
+		<SimpleData name="conservation_storage">5093</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">862.61</SimpleData>
+		<SimpleData name="full_name">Lake Mineral Wells</SimpleData>
+		<SimpleData name="percent_full">96.6</SimpleData>
+		<SimpleData name="short_name">Mineral Wells</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">5093</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">5272.620018</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.04198456,32.81679535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1789.3</SimpleData>
+		<SimpleData name="condensed_name">Monticello</SimpleData>
+		<SimpleData name="conservation_capacity">34740</SimpleData>
+		<SimpleData name="conservation_pool_elevation">340</SimpleData>
+		<SimpleData name="conservation_storage">30210</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">337.66</SimpleData>
+		<SimpleData name="full_name">Monticello Reservoir</SimpleData>
+		<SimpleData name="percent_full">87</SimpleData>
+		<SimpleData name="short_name">Monticello</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_north_east_texas,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">30210</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">34739.556405</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.04354858,33.08012009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">2874.5</SimpleData>
+		<SimpleData name="condensed_name">MountainCreek</SimpleData>
+		<SimpleData name="conservation_capacity">22850</SimpleData>
+		<SimpleData name="conservation_pool_elevation">457</SimpleData>
+		<SimpleData name="conservation_storage">22850</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">457.65</SimpleData>
+		<SimpleData name="full_name">Mountain Creek Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Mountain Creek</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_c,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">24569</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">22850</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.94333649,32.73207474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Murvaul</SimpleData>
+		<SimpleData name="conservation_capacity">38285</SimpleData>
+		<SimpleData name="conservation_pool_elevation">265.3</SimpleData>
+		<SimpleData name="conservation_storage">38285</SimpleData>
+		<SimpleData name="dead_pool_elevation">235</SimpleData>
+		<SimpleData name="elevation">265.4</SimpleData>
+		<SimpleData name="full_name">Murvaul Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Murvaul</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_east_texas,water_supply,texas,major,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">38628</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">38284.561983</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.42103577,32.03461075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">2166</SimpleData>
+		<SimpleData name="condensed_name">Nacogdoches</SimpleData>
+		<SimpleData name="conservation_capacity">39522</SimpleData>
+		<SimpleData name="conservation_pool_elevation">279</SimpleData>
+		<SimpleData name="conservation_storage">39086</SimpleData>
+		<SimpleData name="dead_pool_elevation">235.9</SimpleData>
+		<SimpleData name="elevation">278.8</SimpleData>
+		<SimpleData name="full_name">Lake Nacogdoches</SimpleData>
+		<SimpleData name="percent_full">98.9</SimpleData>
+		<SimpleData name="short_name">Nacogdoches</SimpleData>
+		<SimpleData name="tags">(8:climate_east_texas,monitored,municipal_nacogdoches,region_east_texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">39088</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">39523.18641</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.82549286,31.58879089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1269.2</SimpleData>
+		<SimpleData name="condensed_name">Nasworthy</SimpleData>
+		<SimpleData name="conservation_capacity">9615</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1872.2</SimpleData>
+		<SimpleData name="conservation_storage">8820</SimpleData>
+		<SimpleData name="dead_pool_elevation">1860</SimpleData>
+		<SimpleData name="elevation">1871.69</SimpleData>
+		<SimpleData name="full_name">Lake Nasworthy</SimpleData>
+		<SimpleData name="percent_full">91.7</SimpleData>
+		<SimpleData name="short_name">Nasworthy</SimpleData>
+		<SimpleData name="tags">(8:climate_edwards_plateau,monitored,municipal_san_angelo,region_region_f,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">9313</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">10108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.4781,31.3886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">NavarroMills</SimpleData>
+		<SimpleData name="conservation_capacity">49827</SimpleData>
+		<SimpleData name="conservation_pool_elevation">424.5</SimpleData>
+		<SimpleData name="conservation_storage">49827</SimpleData>
+		<SimpleData name="dead_pool_elevation">400</SimpleData>
+		<SimpleData name="elevation">432.07</SimpleData>
+		<SimpleData name="full_name">Navarro Mills Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Navarro Mills</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_c,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">91086</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">49827.420386</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.68943787,31.95765686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">385.16</SimpleData>
+		<SimpleData name="condensed_name">NewTerrellCity</SimpleData>
+		<SimpleData name="conservation_capacity">8583</SimpleData>
+		<SimpleData name="conservation_pool_elevation">504</SimpleData>
+		<SimpleData name="conservation_storage">2377</SimpleData>
+		<SimpleData name="dead_pool_elevation">481</SimpleData>
+		<SimpleData name="elevation">494.21</SimpleData>
+		<SimpleData name="full_name">New Terrell City Lake</SimpleData>
+		<SimpleData name="percent_full">27.7</SimpleData>
+		<SimpleData name="short_name">New Terrell City</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_c,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">2388</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">8594</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.17358398,32.72846222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1277.27</SimpleData>
+		<SimpleData name="condensed_name">Nocona</SimpleData>
+		<SimpleData name="conservation_capacity">21444</SimpleData>
+		<SimpleData name="conservation_pool_elevation">827.5</SimpleData>
+		<SimpleData name="conservation_storage">19141</SimpleData>
+		<SimpleData name="dead_pool_elevation">795</SimpleData>
+		<SimpleData name="elevation">825.74</SimpleData>
+		<SimpleData name="full_name">Lake Nocona (Farmer's Creek)</SimpleData>
+		<SimpleData name="percent_full">89.3</SimpleData>
+		<SimpleData name="short_name">Nocona</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_b,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">19445</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">21748.688338</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.65280151,33.88259888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">924.8</SimpleData>
+		<SimpleData name="condensed_name">NorthForkBuffaloCreek</SimpleData>
+		<SimpleData name="conservation_capacity">15400</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1048</SimpleData>
+		<SimpleData name="conservation_storage">7469</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">1042.02</SimpleData>
+		<SimpleData name="full_name">North Fork Buffalo Creek Reservoir</SimpleData>
+		<SimpleData name="percent_full">48.5</SimpleData>
+		<SimpleData name="short_name">North Fork Buffalo Creek</SimpleData>
+		<SimpleData name="tags">(7:climate_low_rolling_plains,monitored,region_region_b,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">7469</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">15400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.75200653,33.986763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">343.67</SimpleData>
+		<SimpleData name="condensed_name">OCFisher</SimpleData>
+		<SimpleData name="conservation_capacity">115742</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1908</SimpleData>
+		<SimpleData name="conservation_storage">1277</SimpleData>
+		<SimpleData name="dead_pool_elevation">1840</SimpleData>
+		<SimpleData name="elevation">1854.31</SimpleData>
+		<SimpleData name="full_name">O. C. Fisher Lake</SimpleData>
+		<SimpleData name="percent_full">1.1</SimpleData>
+		<SimpleData name="short_name">O C Fisher</SimpleData>
+		<SimpleData name="tags">(8:climate_edwards_plateau,monitored,municipal_san_angelo,region_region_f,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">1278</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">115743</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.4817581,31.48460388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">OHIvie</SimpleData>
+		<SimpleData name="conservation_capacity">554340</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1551.5</SimpleData>
+		<SimpleData name="conservation_storage">152151</SimpleData>
+		<SimpleData name="dead_pool_elevation">1480</SimpleData>
+		<SimpleData name="elevation">1520.66</SimpleData>
+		<SimpleData name="full_name">O. H. Ivie Reservoir</SimpleData>
+		<SimpleData name="percent_full">27.4</SimpleData>
+		<SimpleData name="short_name">O H Ivie</SimpleData>
+		<SimpleData name="tags">(10:climate_edwards_plateau,monitored,municipal_midland_odessa,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">152151</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">554339.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.66840363,31.50015831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">917.5</SimpleData>
+		<SimpleData name="condensed_name">OakCreek</SimpleData>
+		<SimpleData name="conservation_capacity">39210</SimpleData>
+		<SimpleData name="conservation_pool_elevation">2000</SimpleData>
+		<SimpleData name="conservation_storage">11727</SimpleData>
+		<SimpleData name="dead_pool_elevation">1951</SimpleData>
+		<SimpleData name="elevation">1982.61</SimpleData>
+		<SimpleData name="full_name">Oak Creek Reservoir</SimpleData>
+		<SimpleData name="percent_full">29.9</SimpleData>
+		<SimpleData name="short_name">Oak Creek</SimpleData>
+		<SimpleData name="tags">(7:climate_edwards_plateau,monitored,region_region_f,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">11877</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">39360</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.268425,32.04069138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Palestine</SimpleData>
+		<SimpleData name="conservation_capacity">367303</SimpleData>
+		<SimpleData name="conservation_pool_elevation">345</SimpleData>
+		<SimpleData name="conservation_storage">367303</SimpleData>
+		<SimpleData name="dead_pool_elevation">298</SimpleData>
+		<SimpleData name="elevation">345.15</SimpleData>
+		<SimpleData name="full_name">Lake Palestine</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Palestine</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_east_texas,water_supply,texas,major,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">370790</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">367312.020799</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.43689728,32.0534935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">PaloDuro</SimpleData>
+		<SimpleData name="conservation_capacity">61066</SimpleData>
+		<SimpleData name="conservation_pool_elevation">2892</SimpleData>
+		<SimpleData name="conservation_storage">1425</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">2836.55</SimpleData>
+		<SimpleData name="full_name">Palo Duro Reservoir</SimpleData>
+		<SimpleData name="percent_full">2.3</SimpleData>
+		<SimpleData name="short_name">Palo Duro</SimpleData>
+		<SimpleData name="tags">(7:climate_high_plains,monitored,region_panhandle,water_supply,texas,major,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">1425</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">61066</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.164444,36.34777832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">2136.98</SimpleData>
+		<SimpleData name="condensed_name">PaloPinto</SimpleData>
+		<SimpleData name="conservation_capacity">26766</SimpleData>
+		<SimpleData name="conservation_pool_elevation">867</SimpleData>
+		<SimpleData name="conservation_storage">24740</SimpleData>
+		<SimpleData name="dead_pool_elevation">835</SimpleData>
+		<SimpleData name="elevation">866.06</SimpleData>
+		<SimpleData name="full_name">Lake Palo Pinto</SimpleData>
+		<SimpleData name="percent_full">92.4</SimpleData>
+		<SimpleData name="short_name">Palo Pinto</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">25126</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">27151.8885778416</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.26921082,32.64762878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1551.84</SimpleData>
+		<SimpleData name="condensed_name">PatCleburne</SimpleData>
+		<SimpleData name="conservation_capacity">26008</SimpleData>
+		<SimpleData name="conservation_pool_elevation">733.5</SimpleData>
+		<SimpleData name="conservation_storage">25323</SimpleData>
+		<SimpleData name="dead_pool_elevation">690</SimpleData>
+		<SimpleData name="elevation">733.06</SimpleData>
+		<SimpleData name="full_name">Lake Pat Cleburne</SimpleData>
+		<SimpleData name="percent_full">97.4</SimpleData>
+		<SimpleData name="short_name">Pat Cleburne</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">25323</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">26008.383471</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.41529846,32.2890358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">PatMayse</SimpleData>
+		<SimpleData name="conservation_capacity">113683</SimpleData>
+		<SimpleData name="conservation_pool_elevation">451</SimpleData>
+		<SimpleData name="conservation_storage">113683</SimpleData>
+		<SimpleData name="dead_pool_elevation">415</SimpleData>
+		<SimpleData name="elevation">451.32</SimpleData>
+		<SimpleData name="full_name">Pat Mayse Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Pat Mayse</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_north_east_texas,water_supply,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">119653</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">117843.60551</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.54467773,33.85288239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">17828.21</SimpleData>
+		<SimpleData name="condensed_name">PossumKingdom</SimpleData>
+		<SimpleData name="conservation_capacity">538139</SimpleData>
+		<SimpleData name="conservation_pool_elevation">999</SimpleData>
+		<SimpleData name="conservation_storage">534922</SimpleData>
+		<SimpleData name="dead_pool_elevation">874.8</SimpleData>
+		<SimpleData name="elevation">998.82</SimpleData>
+		<SimpleData name="full_name">Possum Kingdom Lake</SimpleData>
+		<SimpleData name="percent_full">99.4</SimpleData>
+		<SimpleData name="short_name">Possum Kingdom</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">534922</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">538138.56382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.42588806,32.87234497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">4131.56</SimpleData>
+		<SimpleData name="condensed_name">Proctor</SimpleData>
+		<SimpleData name="conservation_capacity">54762</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1162</SimpleData>
+		<SimpleData name="conservation_storage">43235</SimpleData>
+		<SimpleData name="dead_pool_elevation">1128</SimpleData>
+		<SimpleData name="elevation">1159.38</SimpleData>
+		<SimpleData name="full_name">Proctor Lake</SimpleData>
+		<SimpleData name="percent_full">79</SimpleData>
+		<SimpleData name="short_name">Proctor</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">43235</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">54762.308173</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.48616028,31.96875572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">21035.72</SimpleData>
+		<SimpleData name="condensed_name">RayHubbard</SimpleData>
+		<SimpleData name="conservation_capacity">439559</SimpleData>
+		<SimpleData name="conservation_pool_elevation">435.5</SimpleData>
+		<SimpleData name="conservation_storage">439559</SimpleData>
+		<SimpleData name="dead_pool_elevation">388</SimpleData>
+		<SimpleData name="elevation">435.57</SimpleData>
+		<SimpleData name="full_name">Lake Ray Hubbard</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Ray Hubbard</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_dallas,region_region_c,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">441030</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">439559.005326</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.49610138,32.80012894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">RayRoberts</SimpleData>
+		<SimpleData name="conservation_capacity">788167</SimpleData>
+		<SimpleData name="conservation_pool_elevation">632.5</SimpleData>
+		<SimpleData name="conservation_storage">788167</SimpleData>
+		<SimpleData name="dead_pool_elevation">551</SimpleData>
+		<SimpleData name="elevation">634.51</SimpleData>
+		<SimpleData name="full_name">Ray Roberts Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Ray Roberts</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_dallas,region_region_c,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">846815</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">788489.685216</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.05001068,33.35539246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">RedBluff</SimpleData>
+		<SimpleData name="conservation_capacity">151110</SimpleData>
+		<SimpleData name="conservation_pool_elevation">2827.4</SimpleData>
+		<SimpleData name="conservation_storage">59061</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">2811.57</SimpleData>
+		<SimpleData name="full_name">Red Bluff Reservoir</SimpleData>
+		<SimpleData name="percent_full">39.1</SimpleData>
+		<SimpleData name="short_name">Red Bluff</SimpleData>
+		<SimpleData name="tags">(7:climate_trans_pecos,monitored,region_region_f,water_supply,texas,major,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">59061</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">151110.000000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.9101944,31.90123749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">RichlandChambers</SimpleData>
+		<SimpleData name="conservation_capacity">1099417</SimpleData>
+		<SimpleData name="conservation_pool_elevation">315</SimpleData>
+		<SimpleData name="conservation_storage">1099417</SimpleData>
+		<SimpleData name="dead_pool_elevation">266</SimpleData>
+		<SimpleData name="elevation">315.32</SimpleData>
+		<SimpleData name="full_name">Richland-Chambers Reservoir</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Richland-Chambers</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_fort_worth,region_region_c,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">1139281</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">1125199.350597</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.20664215,32.04043579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">SamRayburn</SimpleData>
+		<SimpleData name="conservation_capacity">2857077</SimpleData>
+		<SimpleData name="conservation_pool_elevation">164.4</SimpleData>
+		<SimpleData name="conservation_storage">2857077</SimpleData>
+		<SimpleData name="dead_pool_elevation">105</SimpleData>
+		<SimpleData name="elevation">168.19</SimpleData>
+		<SimpleData name="full_name">Sam Rayburn Reservoir</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Sam Rayburn</SimpleData>
+		<SimpleData name="tags">(8:climate_east_texas,monitored,municipal_beaumont_port_arthur,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">3314591</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">2876033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.1060257,31.06075096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Somerville</SimpleData>
+		<SimpleData name="conservation_capacity">150293</SimpleData>
+		<SimpleData name="conservation_pool_elevation">238</SimpleData>
+		<SimpleData name="conservation_storage">150293</SimpleData>
+		<SimpleData name="dead_pool_elevation">206</SimpleData>
+		<SimpleData name="elevation">238.87</SimpleData>
+		<SimpleData name="full_name">Somerville Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Somerville</SimpleData>
+		<SimpleData name="tags">(7:climate_south_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">160274</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">150292.522314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.52580261,30.32243347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">SquawCreek</SimpleData>
+		<SimpleData name="conservation_capacity">151250</SimpleData>
+		<SimpleData name="conservation_pool_elevation">775</SimpleData>
+		<SimpleData name="conservation_storage">151250</SimpleData>
+		<SimpleData name="dead_pool_elevation">653</SimpleData>
+		<SimpleData name="elevation">775.43</SimpleData>
+		<SimpleData name="full_name">Squaw Creek Reservoir</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Squaw Creek</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">152638</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">151272.974105</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.78697205,32.30014038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">5067.4</SimpleData>
+		<SimpleData name="condensed_name">Stamford</SimpleData>
+		<SimpleData name="conservation_capacity">51570</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1416.8</SimpleData>
+		<SimpleData name="conservation_storage">50759</SimpleData>
+		<SimpleData name="dead_pool_elevation">1382.8</SimpleData>
+		<SimpleData name="elevation">1416.88</SimpleData>
+		<SimpleData name="full_name">Lake Stamford</SimpleData>
+		<SimpleData name="percent_full">98.4</SimpleData>
+		<SimpleData name="short_name">Stamford</SimpleData>
+		<SimpleData name="tags">(7:climate_low_rolling_plains,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">50762</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">51573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.57952881,33.06260681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">StillhouseHollow</SimpleData>
+		<SimpleData name="conservation_capacity">229796</SimpleData>
+		<SimpleData name="conservation_pool_elevation">622</SimpleData>
+		<SimpleData name="conservation_storage">229796</SimpleData>
+		<SimpleData name="dead_pool_elevation">515</SimpleData>
+		<SimpleData name="elevation">624.01</SimpleData>
+		<SimpleData name="full_name">Stillhouse Hollow Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Stillhouse Hollow</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_austin,region_brazos_g,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">243097</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">229881.407782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.53279114,31.02240372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1943.85</SimpleData>
+		<SimpleData name="condensed_name">Striker</SimpleData>
+		<SimpleData name="conservation_capacity">16878</SimpleData>
+		<SimpleData name="conservation_pool_elevation">293</SimpleData>
+		<SimpleData name="conservation_storage">16624</SimpleData>
+		<SimpleData name="dead_pool_elevation">282</SimpleData>
+		<SimpleData name="elevation">292.87</SimpleData>
+		<SimpleData name="full_name">Lake Striker</SimpleData>
+		<SimpleData name="percent_full">98.5</SimpleData>
+		<SimpleData name="short_name">Striker</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_east_texas,water_supply,texas,major,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">21546</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">21799.414382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.97565555,31.9340833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">SulphurSprings</SimpleData>
+		<SimpleData name="conservation_capacity">17747</SimpleData>
+		<SimpleData name="conservation_pool_elevation">458.95</SimpleData>
+		<SimpleData name="conservation_storage">17747</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">459.46</SimpleData>
+		<SimpleData name="full_name">Lake Sulphur Springs</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Sulphur Springs</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_north_east_texas,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">18755</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">17746.85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.64189911,33.16789246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">346.4</SimpleData>
+		<SimpleData name="condensed_name">Sweetwater</SimpleData>
+		<SimpleData name="conservation_capacity">12267</SimpleData>
+		<SimpleData name="conservation_pool_elevation">2116.5</SimpleData>
+		<SimpleData name="conservation_storage">4975</SimpleData>
+		<SimpleData name="dead_pool_elevation">0</SimpleData>
+		<SimpleData name="elevation">2101.52</SimpleData>
+		<SimpleData name="full_name">Lake Sweetwater</SimpleData>
+		<SimpleData name="percent_full">40.6</SimpleData>
+		<SimpleData name="short_name">Sweetwater</SimpleData>
+		<SimpleData name="tags">(7:climate_low_rolling_plains,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">4975</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">12267</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.3037109,32.43873215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">36877.24</SimpleData>
+		<SimpleData name="condensed_name">Tawakoni</SimpleData>
+		<SimpleData name="conservation_capacity">871685</SimpleData>
+		<SimpleData name="conservation_pool_elevation">437.5</SimpleData>
+		<SimpleData name="conservation_storage">867620</SimpleData>
+		<SimpleData name="dead_pool_elevation">378</SimpleData>
+		<SimpleData name="elevation">437.39</SimpleData>
+		<SimpleData name="full_name">Lake Tawakoni</SimpleData>
+		<SimpleData name="percent_full">99.5</SimpleData>
+		<SimpleData name="short_name">Tawakoni</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_dallas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">867628</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">871692.553168</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.91968536,32.80873489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">10228.36</SimpleData>
+		<SimpleData name="condensed_name">Texana</SimpleData>
+		<SimpleData name="conservation_capacity">158975</SimpleData>
+		<SimpleData name="conservation_pool_elevation">44</SimpleData>
+		<SimpleData name="conservation_storage">158255</SimpleData>
+		<SimpleData name="dead_pool_elevation">14</SimpleData>
+		<SimpleData name="elevation">43.93</SimpleData>
+		<SimpleData name="full_name">Lake Texana</SimpleData>
+		<SimpleData name="percent_full">99.5</SimpleData>
+		<SimpleData name="short_name">Texana</SimpleData>
+		<SimpleData name="tags">(8:climate_upper_coast,monitored,municipal_corpus_christi,region_lavaca,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">163468</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">164188.222957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.57775116,28.89193153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">83351.11</SimpleData>
+		<SimpleData name="condensed_name">Texoma</SimpleData>
+		<SimpleData name="conservation_capacity">1243801</SimpleData>
+		<SimpleData name="conservation_pool_elevation">617</SimpleData>
+		<SimpleData name="conservation_storage">1243801</SimpleData>
+		<SimpleData name="dead_pool_elevation">523</SimpleData>
+		<SimpleData name="elevation">618.71</SimpleData>
+		<SimpleData name="full_name">Lake Texoma</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Texoma</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_c,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">2621040</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">2487603</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.57222222,33.81805556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">174902.7</SimpleData>
+		<SimpleData name="condensed_name">ToledoBend</SimpleData>
+		<SimpleData name="conservation_capacity">2236450</SimpleData>
+		<SimpleData name="conservation_pool_elevation">172</SimpleData>
+		<SimpleData name="conservation_storage">2109114</SimpleData>
+		<SimpleData name="dead_pool_elevation">100</SimpleData>
+		<SimpleData name="elevation">170.43</SimpleData>
+		<SimpleData name="full_name">Toledo Bend Reservoir</SimpleData>
+		<SimpleData name="percent_full">94.3</SimpleData>
+		<SimpleData name="short_name">Toledo Bend</SimpleData>
+		<SimpleData name="tags">(7:climate_east_texas,monitored,region_east_texas,water_supply,texas,major,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">4222328</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">4477000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.57212067,31.1962986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">9782.63</SimpleData>
+		<SimpleData name="condensed_name">Travis</SimpleData>
+		<SimpleData name="conservation_capacity">1098044</SimpleData>
+		<SimpleData name="conservation_pool_elevation">681</SimpleData>
+		<SimpleData name="conservation_storage">444928</SimpleData>
+		<SimpleData name="dead_pool_elevation">535.75</SimpleData>
+		<SimpleData name="elevation">634.27</SimpleData>
+		<SimpleData name="full_name">Lake Travis</SimpleData>
+		<SimpleData name="percent_full">40.5</SimpleData>
+		<SimpleData name="short_name">Travis</SimpleData>
+		<SimpleData name="tags">(9:climate_south_central,monitored,municipal_austin,region_lower_colorado,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">461960</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">1115076.239555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.90723419,30.39186859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1578.2</SimpleData>
+		<SimpleData name="condensed_name">TwinButtes</SimpleData>
+		<SimpleData name="conservation_capacity">182454</SimpleData>
+		<SimpleData name="conservation_pool_elevation">1940.2</SimpleData>
+		<SimpleData name="conservation_storage">19103</SimpleData>
+		<SimpleData name="dead_pool_elevation">1885</SimpleData>
+		<SimpleData name="elevation">1903.1</SimpleData>
+		<SimpleData name="full_name">Twin Buttes Reservoir</SimpleData>
+		<SimpleData name="percent_full">10.5</SimpleData>
+		<SimpleData name="short_name">Twin Buttes</SimpleData>
+		<SimpleData name="tags">(8:climate_edwards_plateau,monitored,municipal_san_angelo,region_region_f,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">22852</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">186203</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.5384293,31.38210678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">4751.34</SimpleData>
+		<SimpleData name="condensed_name">Tyler</SimpleData>
+		<SimpleData name="conservation_capacity">72073</SimpleData>
+		<SimpleData name="conservation_pool_elevation">375.38</SimpleData>
+		<SimpleData name="conservation_storage">72073</SimpleData>
+		<SimpleData name="dead_pool_elevation">350</SimpleData>
+		<SimpleData name="elevation">375.53</SimpleData>
+		<SimpleData name="full_name">Lake Tyler</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Tyler</SimpleData>
+		<SimpleData name="tags">(8:climate_east_texas,monitored,municipal_tyler,region_east_texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">77993</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">77283.549679</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.17605591,32.24182129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">Waco</SimpleData>
+		<SimpleData name="conservation_capacity">189418</SimpleData>
+		<SimpleData name="conservation_pool_elevation">462.2</SimpleData>
+		<SimpleData name="conservation_storage">189418</SimpleData>
+		<SimpleData name="dead_pool_elevation">400.2</SimpleData>
+		<SimpleData name="elevation">463.17</SimpleData>
+		<SimpleData name="full_name">Waco Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Waco</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_waco,region_brazos_g,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">197572</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">189623.91434269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.19778442,31.57960892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">644.69</SimpleData>
+		<SimpleData name="condensed_name">Waxahachie</SimpleData>
+		<SimpleData name="conservation_capacity">11060</SimpleData>
+		<SimpleData name="conservation_pool_elevation">531.5</SimpleData>
+		<SimpleData name="conservation_storage">10598</SimpleData>
+		<SimpleData name="dead_pool_elevation">498.75</SimpleData>
+		<SimpleData name="elevation">530.79</SimpleData>
+		<SimpleData name="full_name">Lake Waxahachie</SimpleData>
+		<SimpleData name="percent_full">95.8</SimpleData>
+		<SimpleData name="short_name">Waxahachie</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_c,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">11180</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">11642.273882</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.80527496,32.34181213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">1024.54</SimpleData>
+		<SimpleData name="condensed_name">Weatherford</SimpleData>
+		<SimpleData name="conservation_capacity">17812</SimpleData>
+		<SimpleData name="conservation_pool_elevation">896</SimpleData>
+		<SimpleData name="conservation_storage">15954</SimpleData>
+		<SimpleData name="dead_pool_elevation">857</SimpleData>
+		<SimpleData name="elevation">894.24</SimpleData>
+		<SimpleData name="full_name">Lake Weatherford</SimpleData>
+		<SimpleData name="percent_full">89.6</SimpleData>
+		<SimpleData name="short_name">Weatherford</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_region_c,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">15954</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">17812.465014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.67475128,32.77262878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">721.2</SimpleData>
+		<SimpleData name="condensed_name">WhiteRiver</SimpleData>
+		<SimpleData name="conservation_capacity">29880</SimpleData>
+		<SimpleData name="conservation_pool_elevation">2372.2</SimpleData>
+		<SimpleData name="conservation_storage">6163</SimpleData>
+		<SimpleData name="dead_pool_elevation">2340</SimpleData>
+		<SimpleData name="elevation">2351.04</SimpleData>
+		<SimpleData name="full_name">White River Reservoir</SimpleData>
+		<SimpleData name="percent_full">20.6</SimpleData>
+		<SimpleData name="short_name">White River</SimpleData>
+		<SimpleData name="tags">(7:climate_high_plains,monitored,region_llano_estacado,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">8129</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">31846</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.0840302,33.45786667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">23100.32</SimpleData>
+		<SimpleData name="condensed_name">Whitney</SimpleData>
+		<SimpleData name="conservation_capacity">564808</SimpleData>
+		<SimpleData name="conservation_pool_elevation">533</SimpleData>
+		<SimpleData name="conservation_storage">561798</SimpleData>
+		<SimpleData name="dead_pool_elevation">448.83</SimpleData>
+		<SimpleData name="elevation">532.87</SimpleData>
+		<SimpleData name="full_name">Whitney Lake</SimpleData>
+		<SimpleData name="percent_full">99.5</SimpleData>
+		<SimpleData name="short_name">Whitney</SimpleData>
+		<SimpleData name="tags">(7:climate_north_central,monitored,region_brazos_g,water_supply,texas,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">563152</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">566161.774839</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.37195587,31.86543655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="area">3165.41</SimpleData>
+		<SimpleData name="condensed_name">Worth</SimpleData>
+		<SimpleData name="conservation_capacity">24419</SimpleData>
+		<SimpleData name="conservation_pool_elevation">594</SimpleData>
+		<SimpleData name="conservation_storage">17326</SimpleData>
+		<SimpleData name="dead_pool_elevation">584.3</SimpleData>
+		<SimpleData name="elevation">591.85</SimpleData>
+		<SimpleData name="full_name">Lake Worth</SimpleData>
+		<SimpleData name="percent_full">71</SimpleData>
+		<SimpleData name="short_name">Worth</SimpleData>
+		<SimpleData name="tags">(8:climate_north_central,monitored,municipal_fort_worth,region_region_c,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">26402</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">33494.923049</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.41640472,32.7892952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_data_for_texas">
+		<SimpleData name="condensed_name">WrightPatman</SimpleData>
+		<SimpleData name="conservation_capacity">231496</SimpleData>
+		<SimpleData name="conservation_pool_elevation">225</SimpleData>
+		<SimpleData name="conservation_storage">231496</SimpleData>
+		<SimpleData name="dead_pool_elevation">200</SimpleData>
+		<SimpleData name="elevation">227.92</SimpleData>
+		<SimpleData name="full_name">Wright Patman Lake</SimpleData>
+		<SimpleData name="percent_full">100</SimpleData>
+		<SimpleData name="short_name">Wright Patman</SimpleData>
+		<SimpleData name="tags">(8:region_north_east_texas,water_supply,texas,major,basin_sulphur,...)</SimpleData>
+		<SimpleData name="timestamp">2024/07/21</SimpleData>
+		<SimpleData name="volume">324880</SimpleData>
+		<SimpleData name="volume_under_conservation_pool_elevation">231542.886727955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.16074371,33.30456924</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
